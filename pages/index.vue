@@ -11,8 +11,11 @@
         <button @click="joinGame" class="btn btn-primary mt-5 text-xl">
           Join Game
         </button>
+        
+    <div class="mt-3 flex w-full flex-col items-center">
+    <a class="text-white text-1xl" target="_blank" href="https://github.com/ViralOne/cards-against-humanity/tree/changes">Fork Me On Github</a>
+    </div>
       </div>
-
 
       <div v-else-if="step === 'new'" class="flex w-full flex-col items-center ">
         <input v-model="username" type="text" class="mt-5 w-full"
