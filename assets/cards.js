@@ -1,5 +1,3709 @@
 export default {
-  "white": [
+  "white": [{
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "COVID-19"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "2 metrii distanta."
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "distantare sociala."
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Tatra"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Stroh"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Jägermeister"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Tomberon posedat"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Chiloti folositi"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Cartea: \"Cum sa-ti sugi pula singur \""
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Parkinson Laba"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Virginitate vesnica"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Circumzitie esuata"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Sa o vezi pe mamae goala"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Coaie fara pula"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Pula mai mare."
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Gandalf"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "micropenis"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Bomba atomica"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Explozie"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Blood farts"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Testicolul lipsa al lui Lance Armstrong"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Liliac"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Pula de fier"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Vibratii pozitive de la dildo-ul tau"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "cum shot"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "testicolul lui Chewbacca "
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Bunica excitata"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Un Dragon sad si gras fara prieteni"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "White Horse Costinesti"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "sexul slab"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "sperma de elf"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Acest lucru nou si incantator numit LSD"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Somalezi"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "copii africani"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "o galeata de lubrifiant"
+    },
+    {
+      "deck": "c-berica",
+      "icon": "trophy",
+      "text": "Sapca lui Cheloo"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Trei in pula mea !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Nimic ma, dar stateai intr-o pozitie nefireasca"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "No, ni ma la el"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ia un leu si pleaca"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sfinte cacat de cal"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Te rog nu mai fii autist!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fata Miriapod"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Plutonierul Jderu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tarantula umana"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Doaaaaaaaamnaaaaa"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "O clanta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "DEMONSTRATION TIME"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Bozgor imputit!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tocmai am futut un papuc"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "ALEGE CARTEA FMM DE PRIPAS!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Eusebiu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Noi suntem Legiunea! Noi nu iertam! Noi futem in cur!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Aia era doar campanie finantata de BOR"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "_|_"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "O apasare mare, ca o constipare"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pinocchio in campanie electorala"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Gros, lung si tare!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "CLICK DREAPTA 'TEN MORTII MATII NU STAM LA DISCUTII"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Imi place cand o vad pe sorta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sugi checu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Martinica Laba mica"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "S-a dus logica pe pula"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Dilema mamelor prostituate"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Monica Columbeanu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Doua kile de sarmale, treizeci de mici si o Timisoreana"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Dragi tovarăşi şi pretini"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "GLORIE MIELULUI!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Evident, ma, labie."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tuica de Tulcea!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mancai rahat intr-o pozitie fireasca"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Plutonierul Garceaa"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mda, ma uit la ea si-mi creste glicemia"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fa-te muci, fa-te muci! Da din buci, da din buci!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "He-he hahalero!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tocmai am violat un panda trist ..."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "ALEGE CARTEA FMM DE PRIPAS!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "'Mnezeu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pufoshenia!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tashi Dracu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Laba trista"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "I-o sarit mustarul"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Asta-i mai defect decat sistemul de invatamant"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Am auzit mai mult rasete la biserica la slujba !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tocmai am descoperit un om mai retardat ca mine"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tu-s arhanghelii ma-tii !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mufa lui Mazare"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "De cat de miez, orez, titirez !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pisicile e semafor"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Cristi de Banat"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ataaaaaaaat !!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pun faianta si bat cuie, fut in cur si dau muie"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mi-a murit la intrare .. :("
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fetele de la Sibiu , ah-ha-ah"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Eu nu strivesc corola de minuni a lumii"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pulica Franaru'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Zici ca l-o pupat hepatita"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "*ras de delfin*"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Puie Monta!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fortza, fortza, fortza, fortza"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Iisus e cel mai tare, el nu va moare!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ca-s varza, 's o gaura de covrig !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ba serios, pune ma Outlast!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "In puii mei"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fane Dinte Aurel Tamaduitoru"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Shth, he nevoie de hlinishte"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mai am un singur dor!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mucificatorul"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Trage la tombola care suge prima"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Iaurtul barbatesc Alpin Tripla Putere XXL"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Afara ninge, eu ti-o-mpinge"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Lava frigorifica"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Arde vaca in șură!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Macheciau"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Asta era una dintre glume"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ma-ta-i asa de curva ca Nescafe 3 in 1 este fix pula pe langa ea"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Discursurile lui Iohannis"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Trag plugu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Codrinatorul"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Shaorma Mister"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Biblia din belele te va scoate!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tot mai sus!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Niciunul dintre noi nu suge pula"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Uite, iti arat muie subtil"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "O cioara analfabeta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ce-o fata ai! Uita-te la tine ce-o fata ai!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Miracole!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "SPRAY LACRIMOGEN!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Futopampidoc"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Vine politia, imi ridica poanta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tu, altfel te pis pe frunte cand dormi."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Bah, du-te dracu' ca esti urat si oricum nu te fute nimeni"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mi se rupe"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tot ce tine de Nikita"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ia pula !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Invizimo ... aduce panica"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Cioca boca cioca boca v-am dat la toti muie moca"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Maica Douamida"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ce mortii lor iti pasa tie?"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mi-as da clanta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "La la la la la la ma apuci de cuc la la la la la"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ca o apa cristalinaaaaaaaa"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Amintirile ma chinuiesc, amintirile ma rascolesc, nu mai reziiiist!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Urmatorul, va rog!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Turnul din pizda"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Preaimbogatitul Daniel"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Il votez pe Pictor Vonta !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Andreea Tonciu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Te spun lu' mami!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "1+1 = ILLUMINATI"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Doua ciute, trei ciute, patru ciute"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Futu-te in antena de ingrat nespalat!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ia un leu si pleaca"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Vodka Transistor"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Deci mie imi place Pony Poptamas!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Afara ploua, pula mi se rupe-n doua"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "No bine, no hai"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "De banii aia mai bine nu faceam nimic"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fernando de la Caransebes"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Am un plant ! DELTAPLAN!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Gaaaaaaaaaaaaaaaaaaaaaaaaaaaaayyyyyyy"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Viniee trenuu' din depouuu, ma-ta-i moaartaa sub metrouuu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Du-te catre pula lui 'Mnezeu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Esti ca parul de pe pula - dijiaba"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Undeva in Balcani!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Egipulamea!!!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Camioanie!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "'te dracu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Balastru la litru!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Bine boss, bine bine boss!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mi-a dat de m-a julit!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sug pula la 5 bani"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "10PLM"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Aia e tati!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Prajitor de caini"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Argumentul tau este mai invalid decat un veteran de razboi"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tigani, Tigani, Tigani!!!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Bezea!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Florin Parizerul"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Zici ca am supt un taifun."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fratieee am fumaat!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ete bune"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Nu refuza un viol ca nu-i frumos!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "N-are nici un rost, nici viitorul nu mai e ce a fost"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Boran Gregovici"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Gie-Gie-Energie"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Du-te tare ca ocupi spatiu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Compot de pizde cosmice"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Evilos"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ba, caine tu esti mai negativ decat cifra profitului din economia tarii"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Carlig in fund, bani de drum, nu am alocatie"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Castraveti si porodici ai grija ca sunt mari si mici"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Curva-i ma-ta!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "ALEGE CARTEA FMM DE PRIPAS!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Marș !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Hai, hai, mai taie din ele da-le dracu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "DaniiB"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Cand pun ochiul in luneta curat tot de pe planeta!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Piftel"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Si ingeriiii au demonii looooooooooooorrr"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "6 cai frumosi"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Cristian Simionica"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ii bini di tat!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "De mere"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Televizor LSD"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Are puteri speciale, trebuie studiat, nu il dau la orice retardat."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "I-as da rau lui Boalfa.."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sandra Roman"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ti-ai scapat sapunul .."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Copil compot"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Du-te si baga-ti un cactus in fund"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Papa savarinaa !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pentru mine de acum in colo esti ''banat"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Epicul FOCA si Legendarul MO"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Habar nu stiu ..."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "M-am cacat pe mineee"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "SATANA !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mama ta e o femeie draguta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pune ba Outlast!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Jidani"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ai tacuuut si mi-ai facut un sandwitch !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Politia Glumelor! Sus maxilarul!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "De stepa, de pleu ... degeaba"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "S-o cacat curcubeu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Paradis-dis hai ca vrei cam multe, Roberto de fute de te rupe !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ma-ta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ioi, Gulaş la ceaun, ni ma!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Abonament la psihiatrie"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Jumate tu, jumatate eu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Doamnie miluieste, Doamnie miluheste"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Du-te si sapa o fantana!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "gri metalizat cameleon desertic"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Q Senzation"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Pula mea de harciog posedat"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Du-te-n plm fah ca sperii mortii"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Vad cel putin doua motive pentru care poti fi prost/proasta toata viata"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "F.O.C.A cel zbuciumat"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Masina de spalat rufe"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mno, ma dau batut ca laptele."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Daca dragoste nu eee, macar muieeee"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Hai, sa te chis in freza"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mai amuzant e sa stai la semafor"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Nu pot sa imi ling cotul de la picior"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Vrei sa iti dau jet?"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sa sugi o ceapa!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sa stii ca ai belit .. manzul."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Esti asa de prost ca ai pus telefonul mobil pe jos sa vezi daca se misca"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Merg cu subtioara-n paine, niciun latra nu ma caine"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Da-mi 1 leu si o sa am 1 leu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mancate-ar sobolanii, dati-ar Domnu' marmelada si pumni in gura o gramada"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ia cu paine"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Direct anal"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Șmecherie cu dublu șm."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Gangbang la ziua Izabelei!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Cornulet Chipicao cu cacat de manz"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Faceti ce vreti cu corpul meu!!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fut luna cu pateu"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Da, cum pula mea?"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Vrei sa pui mana pe ceva tare?"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Esti asa de prost ca joci alba-neagra cu pahare transparente si tot pierzi"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Un retard care a pus intrebarea asta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Stai jos, esti prost nota 2"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "PROMIT SA FAC TARA MAI BUNA"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "A dat cu mucii in fasole"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "E bolnav cu toate boalile, cu capu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "E veche faza cu e veche faza"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Nu fii trist ca esti urat si puti, ramane intre noi ca platesti sa futi"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Astea-s povesti cu prostituate, mambo-jiaisme colorate, vrajeli de grupa mica."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "7 stele 7 cai m-am futut cu ma-ta-n Rai"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Cum prinzi o musca? Prinzi doua si la a doua ii dai drumu'"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Dau cu bata nu te plac, eu nu stiu sa fac rap"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ovulator cu perie"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Manca-i-ai toata viata ta numai rame cu mustar!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Un tampon cu aripioare"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sapte stele sapte cai m-am futut cu ma-ta-n rai"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Glume cu Oana Roman"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "O scroafa cu aripi si NOS in cur"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "O pula roza cu luminite! OMFG OMFG!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sa moara ma-ta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Ca sa se mire prostii"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Bah, tu esti prost sau te prefaci?"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Nu pot ca-s impotent .."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Uite cum iti dau muie in slow motion!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sa te ghetalesc in gusa?"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Mama ce batute o sa isi ia asta"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Cica astia o sa -mi plateasca pensia"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tutorial : Cum sa te futi singur in cur cu un cacatus in flacari."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Unde-i, ma, Hitler cand ai nevoie de el?"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Uite ce fata are, zici ca-i desenat cu stanga!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Vreau sa sune telefonul! ACUM !"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Piei aghiuta, prinde-ma de puta, intra lu/' Trompy cuvant si-a lu/' spirtu sfant, mancatiar viermi ochii-n mormant."
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sa-mi sugi pula in timp ce-mi sugi pula"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Esti foarte amuzant SA-MI BAG PULA-N MA-TA"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Despre cum borasti in timp ce vomiti"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Fantana plina cu piscina si varcolaci"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Te tau te feliez cu talent te decupez! Te tau, te tau!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Tu cu capul numai de buric te lovesti"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "SEXY TIME"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Sunt pirat in plm ... cu torrent!"
+    },
+    {
+      "deck": "c-unirea",
+      "icon": "wrench",
+      "text": "Esti asa de prost ca ai incercat sa aprinzi lumanarea cu becul"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sorinel"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gigi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un pulan"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Baiatu'"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gigi e gay"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Manele"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un copil gay"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Agricultura"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Da' o muie nu vrei tu?"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Vipera"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bere?!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Este mort"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mojo"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Laba trista"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Paine"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Se sinucide"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "5-ul doamna"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Curva"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Oreo la cur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sare de la etaj"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Puturos"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "s-a dizvirginat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Muzica de negri"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Saracie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cine nu a adus banii de jaluzele?"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nu apa!!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "O mananci"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pipi de rechin"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Lacatus"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Stresul"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Moment incovoietor"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copil turbat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "__"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "A cazut in lac"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Herpes la gura"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Puli"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cuptor"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Te fute'n cur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Plutonierul Garcea"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gigi Becali"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Albine?"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Teroristi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Isi da degetica"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Suge"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Yomi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pastile de supt"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sad"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Curve"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "A venit postasul"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ciocoflender"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Buci"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Csilla"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Coaie fierte"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cocaina Boliviana"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "1997"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Animale"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tarzanei"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "__"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copii asiatici"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Este biciut verbal"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Treci la laba"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un copil labar"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Iubita in varsta de 80 de ani"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "1998"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Penintenciar"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sunt crestin"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Impotenta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sunt singur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Emy"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Este insarcinata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "este handicapat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Jilava"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "O pula sclipicioasa"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Razvan"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "O are mica"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sticksuri de unicorn"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Te cauta cineva."
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Saaaarpiiliii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Viol"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cetateanul turmentat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Viol in masa"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sunt ateu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Masturbare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Viagra®"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tractor"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Jocuri de talent"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ce faci boss"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Branza"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ma-ta aia"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Se masturbeaza"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tralalala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Are draci"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Curva amuzanta a lui tata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fugi ca vin ostasii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Disfunctie erctila"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fumeze"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Dry cooker"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Plictiseala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Femeile nu au drepturi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Crocodil"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ce o fi o fi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Buldozer"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pestele"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Castrat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Andra"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sug pula"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Politia"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un gay fara viata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Goblin"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fara viata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copil schizofrenic"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Muie PSD"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Curu mamei"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Autosatisfacere"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Auchan"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Alegeri proaste"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un chiul"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sunt gay"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Vadim Tudor"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pizda"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mirosi a doi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ciori"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "9\\11"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Plutonierul Garcea"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cutremurul din 77'"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Muie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Incalzirea globala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Prezervative"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Coi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "72 de virgine"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Femei in pula goala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Papuci Gucci"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Conduc fara maini"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "A dat o laba"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Zacusca"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fratii petarda"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "o muie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tumoare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Coclau"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copil lovit de tren"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Prostituata moarta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nea Mihai"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cancer"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nea Iancu'"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Autism"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Design inteligent"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pula cuiva"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Prajitor de paine"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Microunde"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Rahova"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pulinozaur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Are orgasme multiple."
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Parnaie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Coaie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Dani Mocanu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Flocii preasfintitului Daniel"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Grasu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Dinozauri"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "O pula roz"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Se fute in cur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Oameni saraci"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Frictiune"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Si un beteag"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Treci la laba"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Simona Halep"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copil ateu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Oameni negri"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ma masturbez"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Stoica"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Oana Roman"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Las Fierbinti"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copii prosti"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Daddy issues"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "se strange de gat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pateu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Reptilieni"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Meme-uri"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cyka Blyat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ardei iute"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Turbez"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Acadele gigantice"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Laba"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mihai Trestariu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Inginerie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Dumnezeu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cacat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Am o buba in capu' pulii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gay"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Camera de gaze"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Extraterestrii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ciuma"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ma-ta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "24"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Maimute"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "SpirtMan"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tigani"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "__"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pielea pulii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mortu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Curvele de pe centrura"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Respeeect"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "E negru"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Masoni"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nuditate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fuego"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Vreau fata obraznica, atoasa, coltoasa!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Organele mele genitale"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Extraterestrii malefeci"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Am lag"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ecuatia lui Becali"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ce gagici mai ai?"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Zoofilie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bruce Lee"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bibidibabidiboo"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Felatie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Feminism"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sloboz"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tiganii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ba esti prost"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bahoi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nea Vali"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "La cai"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fantome"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ma apuc de Pokemon Go"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bunica"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bonjurel"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "pizda sarata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Penetrare pe la spate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Iliescu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sarpili"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Oamenii strazii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pubertate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Limba-n cur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Rares"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Darth Vader"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tavi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Molfaitoare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Te filmezi in pula goala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Erectie pe viata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "La schela mama la schela."
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Futut"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Criz epileptica"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Vise umede"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ceausescu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Milu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Manevra"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bere"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mititelul"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Apa"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Crezi in Dragoni"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Are pula mica"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Amalia"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "La pulivara"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Are sloboz pe fata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Biserica"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un baltag"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "E un bou"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ungur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un tigan blond"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Are cacat la gura"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nimic"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mori"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Negrii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pula"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Forma de om"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fute"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "virginitate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Masturbare in parcul de joaca"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Valoare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sandu Ciorba"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gigel"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Aooooleeeuuu!!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un bilet"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mircea Badea"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Erectie care tine mai mult de 4 ore"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Totul si nimic"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Prescolar"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Se joaca"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Isi face prietena"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Are pula mare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bing bang diggy diggy dong"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fata lui Tavi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Marmota"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Emotii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Face autostopul"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Selectie naturala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "suga pula"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Standarde triste"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "M-am nenorocit"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Du-te-n pizda ma-tii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Dau la buci"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Colectiv"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Degetica pe cinste."
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Herpes genital"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Covrigei"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Anime"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "5 beri talpa"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tumoare pe creier"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copil batut de soarta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un prost"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "N-am prieteni"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Se arunca in cap"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sida"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sugi pula"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Este gay"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Musc de pizda"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Degete ca pula"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Rechini"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Curve de lux"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ala micu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Se fute cineva"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un fetus"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ferentari"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Iohhanis"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Caca"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Chiloti tanga"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Moarte"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Fasole batuta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cade in gat si ramane paralzat pe viata"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gicu Grozav"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cai"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Oameni prosti"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sos de usturoi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Crezi in Fantome"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Face exorcizare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Inca un shot"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cur de caine"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Domnilor"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Minerii din 92'"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ars de viu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tigari"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Alex"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pizda lu' ma-ta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Marijuana"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Masturbare violenta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Batran posedat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Preotul"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copil mancat de caini"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mop"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Evreii!!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mos craciun"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bani"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Rusia"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Patriarhul Daniel"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Se linge la coaie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un cal mic"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Palinca"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Atei"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bar de negri"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mars!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sictir golane"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Zoofil"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pufoshenie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "__"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pascu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Vaginul meu"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Obeztate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Imi bat nevasta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gata sclavia"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nimic"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "EBOLA"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Menevra"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "BATMAN!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ma gandesc la curve"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "__"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "__"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Droguri"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Handicap locomotor"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Camera la Jilava"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cozonac"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Gloryholes"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Exercitiile E1, E2, E3"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Isus"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Retardat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Necrofilie"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Motive"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Serpi zburatori facand sex"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "PornHub"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Punga cu cacat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Dildo"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Titluri de porn"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sex intre 3 caini cu superputeri"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Inghetata cu cacat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Orez cu lapte"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bisexual"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bataie cu frunze intre cai"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Porn cu manguste"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Viata mea sexuala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Mona"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ai legaturi anal extraterestre"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Incest"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Lupta cu pasarile"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Prea multa sperma"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sex surpriza"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sa golanit"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Aventuri cu negrii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Auschwitz"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Midget porn"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nazistii"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Intra un arab cu camionul in multime"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sex"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Barbati cu tate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Hitler"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "HIV"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Micropenis"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Transexual"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Bataie cu perne"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Penis trist"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Emisie de sperma violenta"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tensiune sexuala"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Omu' cu laptele"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Calul cu 5 picioare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "sperma"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Japonez cu pula mare"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Actrite porno"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Poze cu tate"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Tentacle porn"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sex anal"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Penis de cal sculat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sa se arunce in cap"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sex neprotejat"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Un penis gigantic"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Capra cu trei cai"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "SA VINA DOMNUL IOHHANIS!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sexy si libidinos"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Porno"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Homosexual"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copii cu cancer la cur"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sex salbatic cu un cal"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cancer anal"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Cu laba"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Ma duc sa mor."
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Maica-sa lui Gigi"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Nigger"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Clitoris"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Filme porno"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Copil cu cancer"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Sa vina pululi!!"
+    },
+    {
+      "deck": "c-milu",
+      "icon": "thumbs-o-up",
+      "text": "Pedofil"
+    },
     {
       "deck": "90s",
       "icon": "birthday-cake",
@@ -35518,7 +39222,7 @@ export default {
     {
       "deck": "greenbox",
       "icon": "square",
-      "text": "Who really did 9/11."
+      "text": "Who really did 9//11."
     },
     {
       "deck": "greenbox",
@@ -40596,7 +44300,1962 @@ export default {
       "text": "Breeding elves for their priceless semen."
     }
   ],
-  "black": [
+  "black": [{
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Cum mi-am numit penisul? _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Barbatii adevarati se uita la _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Are gust de _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Oamenii mor cand sunt _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ok, admit asta. M-as face gay pentru _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Corona virus se ransmite prin _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Magazinele nu mai au pe stoc _!",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Cea mai buna tehnica de distantare sociala este: _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Sexul este _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-berica",
+      "text": "Cum a murit _ ? De _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ajutor, simt ca _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "_ ? Exista o aplicatie pentru asta.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ce a pus capat relatiei mele? _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "M-am spalat la coaie cu _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "In timp ce stau acasa in carantina, imi place sa _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Nimeni nu-mi interzice sa _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Tu. Eu. _. ACUM!",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "#_",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ce e mai rau decat COVID-19? _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ce este Covid-19? _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Tipa de aseara avea _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-berica",
+      "text": "_  bea, ca sa _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-berica",
+      "text": "_ miroase a _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Stiri de ultima ora, America se pregateste _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Italia anunta relaxarea restrictiilor: Trebuie sa _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ai voie sa iesi din autoizolare daca _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-berica",
+      "text": "_ a fost impuscat de politisti pe strada, dupa ce _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Octavian a mers la cules de sparanghel în Germania, iar acum trăiește un coșmar: _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Jocul de mima a fost ruinat pentru totdeauna, dupa ce Alex a mimat _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-berica",
+      "text": "Premiul Nobel pentru _ merge la _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-berica",
+      "text": "Intr-o lume ravasita de _ singura noastra speranta e _ .",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "In loc de jordite, mosul aduce anul acesta _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Inainte ca Emy sa concureze pentru presedentie, trebuie sa distruga toate dovezile implicarii in _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Va vorbeste capitanul, legati centurile si pregatiti-va pentru _",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ce au aruncat din avion americanii pentru copiii din afghanistan? _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ce au gasit in tomberonul din spatele clinicii pentru avorturi? _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Antena3 prezinta _ .",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Poate ca Tavi asa s-a nascut. Poate ca e _ .",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-berica",
+      "text": "Draga, vreau sa facem role-play deseara. Tu poti sa fi _ si eu voi fi _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ce ascund parintii tai de tine? _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Banii nu pot cumpara dragostea, dar pot cumpara _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Ce nu ai vrea sa gasesti in mancarea ta chinezeasca? _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Nascut in Oltenita in 3 martie 1930, Ion Iliescu a studiat _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Vadim Tudor a murit la 14 septembrie 2015, principala cauza fiind _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Expresia spaniola chupar mi Polla, se poate traduce ca _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Cea mai tare betie a fost la _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Care e urmatoarea jucarie Happy meal? _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Daca Milu nu ar vrea sa ne bucuram de _, nu ne-ar fi dat _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Make _ great again.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Iti e foame? Poti sa mananci _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 1,
+      "deck": "c-berica",
+      "text": "Nu sunt rasist sau altceva, dar chiar nu imi plac _.",
+      "icon": "trophy"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "[...] Ziua 69, prostii inca nu stiu ca _ este defapt _ [...]",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Realization : _ !",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "_ Asta ar fi una dintre glume ...",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "Scuza-ma tu esti mai _ de fel? Atunci _ in dulap ca ocupi toata canapeaua.",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "_ si _ *ba dum ts*",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Doamna aveti  _ ?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Fata ideala este : _  .",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "De ce nu iti cumperi un _ ? Eu am win7 pe el .",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Imi dai doua _ ?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "E timpu' pentru _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce parere ai despre borduri? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Auzi, vagaboanto, cat ceri _ pentru o ora?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "L-ai fute pe Boalfa? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "... ce ai facut? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Manelistii sunt _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 3,
+      "deck": "c-unirea",
+      "text": "In numele _ si al _ si al _ . Amin ! (Doamne Miluieste)",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce parere ai despre trotuare? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Care este Motto-ul tau? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Q: Iubitule, _ ma face grasa? R: _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Asta-i cartea domnului ?! _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Comandati acum! _ si veti primi in urmatoarele 10 minutes inca un _ !",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Bag-o p'aia smechera rau, boss! _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Zai o poezie : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Domnu' , aveti cuvantul : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cineva a comandat 10 shaorme. Cine plateste? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Domnu' presedinte azi avem de discutat despre cazul _ in conferinta de presa.",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Se mai plimba ma-ta in pula goala prin casa? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Mesaj pentru Iliescu : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Mesaj pentru Ponta : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Voteaza pentru _ !",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "De ce plang chitarele? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce ai face daca ai vedea un om calarind un delfin pe strada ? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "De ce dai in mine? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Siii flocosenia saptamanaii este : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "De ce plang bebelusii cand ling lame? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce _ ? Di ce?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Mesaj pentru Becali: _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Momentul acela cand _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cel mai smecher lucru posibil : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce este asta? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Afara ploua _ 69",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Care este Motto-ul tau? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce marime ai la _ ?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Spune-mi ce vezi? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ai mancat vreodata _ ?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Pe o scara de la 1 la 10 care este culoarea ta preferata din alfabet? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Voi ce minuni ati vazut? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce gust are caloriferul? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Daca _ e adevarat, ma-ta-i adoptata!",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "Daca Ana are _ cate _ are Ana?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "UE a impus scumpirea bauturilor alcoolice. Ce parere aveti? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ai fost acolo cand te-ai nascut? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Se trezeste neamtu' dupa betie : 6 milioane de _ ?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce ai face daca ai fii o usa? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Rockerii sunt _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Mami ce fumezi? _ Da-ne si noua!",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Domnu' nostru, ce se vede in zare? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Care este Motto-ul tau? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ai dat limbi bunicii tale? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "Proverb : _ . By _ .",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Daca cainii urineaza pe copaci, noi de ce nu o facem? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce intra de trei ori in femeie? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ultima mea gluma ar fi cariera mea de comediant *cri-cri-cri* _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Mesaj pentru Ceaușescu : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Da ce-am facut sefu?_",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "_ bea boraste si nu ii pasa.",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cel mai incet lucru de pe pamantul asta : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Da ce a patit? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Acum ca stim cat de retarzi sunt barbatii hai sa aflam si de ce : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Te-ai gandit sa vanezi dinozauri? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Gigel sau Maricel? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Bine copii, acum sa ne spunem rugaciunea : _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ca sa reusesti in viata trebuie sa _ !",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Daca ar fi sa alegi dintre : sa sugi pula la 10 negrii sau sa joci Metin2, ce ai alege?  _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Hai ma sa te vad _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "Ce a fost mai intai _ sau _ ? Raspuns: _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Totul e mai comic cu pula mea ! Spune ceva : _ cu pula mea!",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "De ce ",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cartoful e carnat sau doar visez? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "Haoleu maica! Uitasi sa ma prezint! Sunt _ si fac _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cum de arati ca un cap de pula magician care leviteaza? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "_ si _ . Asta inseamna sa fii mafiot !",
+      "icon": "wrench"
+    },
+    {
+      "pick": 3,
+      "deck": "c-unirea",
+      "text": "Si-a murit _ cu o mana pe _ si cu alta pe _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Bah, stii cat  de greu este sa _ . 'Te dracu' !",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Si intrebarea dumneavoastra este : _ ?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cum pot mirosi picioarele daca n-au nas? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Si ce vrea tati sa iti cumpere printesei lui? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "O sa pot sa ma sug singur? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cum incep toate conversatiile de Skype? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Cum calaresti o curca? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "Caut prietena dar nu gasesc! _ si _ sa apeleze la mine!",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Sa dus vestea in tot satul, _ a mancat carnatul !",
+      "icon": "wrench"
+    },
+    {
+      "pick": 2,
+      "deck": "c-unirea",
+      "text": "Hai sa incepem cu ce avem in comun: _ si _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Iti plac filmele de actiune cu _  ?",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-unirea",
+      "text": "Ce urat! Ce sa zic? _",
+      "icon": "wrench"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Dancila se uita in fiecare seara la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ are mare nevoie de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ sare de pe pod fiindca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Eu ma arunc in _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ este noua noastra mascota.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ a fost in tot acest timp _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Evreii au perciunii lungi fiindca se protejeaza de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 3,
+      "deck": "c-milu",
+      "text": "_ _ _",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Sunt sigur ca _ va fi _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Am erectie cand ma gandesc la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cel mai mare hit al anului 2019 va fi _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ mi-a aratat _. M-a impresionat foarte mult.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ . Este cea mai periculoasa fiinta de pe pamant.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Parere despre card czar: _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Auzi, de unde vine sunetul ala? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ _",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ are spasme doar atunci cand _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Ajuns in Romania pentru prima data, un nigeriat observa ca exista o abundenta de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand Tavi verifica daca mai are _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand am gustat din bere avea gust de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Dimineata fac _ si dupa _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Stoica cand vede _ se face ca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "M-am uitat toata ziua la _ , si inca ma uit.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "M-am trezit dimineata si aveam la gura _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cred ca _ e cel mai tare lucru.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ a furat berea lui Tavi.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Urmatorul cutrmur va fi produs de  ? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Ma doare in gat de la _ aia mare de aseara.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Am fost la biserica si am zis _!!",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Am avut tema? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cel mai bine ma pricep la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "M-am rugat si am zis _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Dani Mocanu va ureaza _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Preotul vine si imi sopteste la ureche _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "De ce s-a apucat Micul Gigant de youtube? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "17 _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ face _ dar nu prea bine.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Un pot de nota 10, _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Mi-am luat _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Care este placerea vinovata a lui Milu? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Muie _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ ma excita.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ . La naiba JAPONIA!",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Am fost la tara la bunici, bunicul m-a atins pe _ , o fi oare _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Tavi a fost tot timpul asta un/o _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "De ce am la ureche un/o _ ?",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Treaba sta in felul urmator _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Acel moment cand te plimbi linistit prin parc si _ iti spune: _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "L-as da pe Gigi la schimb pe un/o _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Lui Emy ii place de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Tavi a fost violat in _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Emy intra la _ fiindca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "De ziua lui _ a primit _ si a zis ca de mic asta a vrut.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 3,
+      "deck": "c-milu",
+      "text": "Pentru a trece examenele ai nevoie de: 1. _. 2 _. 3 _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Gigi a uitat ca aseara a fost _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Vaslui ce mai faci? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ . Exista asa ceva?",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Rares e tare bucuros. Tocmai ce a facut _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 3,
+      "deck": "c-milu",
+      "text": "Level 1: _ , Level 2: _ , Level 3: _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Pentru a se apara de _, Rares foloseste _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Rares _ _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ sufera de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Aseara am fost la _ si m-am _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "De ziua lui, Stoica vrea _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ treci la tabla !Da,da se vede ca nu a invatat.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "A ce miroase asa? Miroase a _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Aseara am fost la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Nu am mai iesit din casa pentru ca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Ai mai auzit ceva despre _? Ca am auzit ca (s-a) _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Rares a fost violat de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "In Geea nu avea decat _ si _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Orele lui Tincu au devenit mai interesante de cand _ _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 3,
+      "deck": "c-milu",
+      "text": "Barbatul tau _ , _ , _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Aveam in punga _ dar cineva a furat-o.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Albilor le place _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Apocalipsa a avut loc si toti oamenii planetei au murit inafara de tine si de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Care e superputerea mea? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cine vrea niste _?",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Negrilor le place? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Fie soare fie ploaie Milu ma _ de ma indoaie.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Pentru elevii mai slabuti recomand vacanta de vara la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Salut, eu sunt _ si sufar de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Atinge-ma pe _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "De obicei imi place _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Am mare nevoie de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Sunt smecher fiindca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 3,
+      "deck": "c-milu",
+      "text": "_ + _ = _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Am fost la magazin si am luat _ pentru _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Ba _ , vrei _ , e gratis!",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Acel moment cand Pascu intra in clasa si zice _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Tavi vine la mine si imi spune ca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Emy inoata linistit in bazin. Dintr-o data o mana iese din apa. Este de fapt un specimen numit _ si spune _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Ieri am vazut o _ , m-am speriat si am _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Fiti uimiti! Noua mea inventie un/o _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Dar un/o _ nu vrei tu?",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "La facultate azi am invatat despre _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "A ce miroase Milu? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ este _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Acel moment cand natura vine la tine si _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Milu are in pantaloni un/o _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Buna ziua puisori,ce ati citit in vacanta ? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Ce faci tu acolo? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Milu _ _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "De ziua lui, Gigi vrea _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "M-am _ la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Slabiciunea mea este/sunt _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Bag pula! Am lasat  _ in copil.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Astazi am plantat un/o _. Dar cred ca este de fapt _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "De ce imi sunt mainile lipicioase _?",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand sunt beat,eu imi arat _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Il bat pe _ la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Cine a inventat _ este _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Injuram fiindca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Gigi este trist fiindca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Milu e campion cand vine vorba de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Tavi _ _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Sper ca esti pregatit pentru _ ,deoarece acum incepe treaba adevarata.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Ce se striga la proteste? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Dar ce am pe fata? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Bleah! Asta nu e Gin este _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Care este placerea nevinovata a lui Batman? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Am uitat copilul in _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Atunci cand _ intra random in clasa si intreaba de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Era o ora linistita de informatica. Dintr-o data _ _ cu putere.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Tavi vrea dar are probleme cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Stoica nu o sa aibe succes niciodata deoarece _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Cu cine vrea _ sa isi petreaca vacanta? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Am dat cu _ pe _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Gigi trebuie sa _ ACUM!",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Fete cand sunt singure le place sa _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Dupa cum am explicat aici va apare _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Se aude ca _ nu stie sa faca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Tavi in timpul orei se trezeste sa strige _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Pentru crimele tale impotriva oamenilor, iti dau ca pedeapsa sa _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Maine, o sa _ cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 3,
+      "deck": "c-milu",
+      "text": "_ vrei sa _ dar il intrebi cum se face pe _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Am fost la SuperMama si am comandat _ cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Ma uit la Gigi cum este violat de o _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cine poate sa omoare 60 de copii intr-o gradinita? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Doar cu _ ma pot drege.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Unii produc fericire oriunde se duc dar lui _ ii place sa produca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Imi luasem trip dela calumea cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand era mic, Rares voia sa fie _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Stoica s-a futut in _ cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ . Asa vreau sa mor.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "M-am rugat la _ sa ne dea multa _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Poti sa dai la schimb _ pentru _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "RUSINE! Domnul/Doamna _ trebuie sa (se) _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Domnul Iohhanis s-a saturat! O sa arunce cu _ in protestatari.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand era mic, Tavi voia sa fie _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Sensei, am probleme cu _ si as vrea ajutorul tau.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Nu stiu sa fac _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand ma masturbez imi place sa _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Hitler inainte sa moara a zis ca _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Tavi nu se mai multumeste cu bere, el vrea _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Gigi s-a dus la magazin sa cumpere _. Dar in schimb a cumparat _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Am _??! Cum stiam ca sunt sanatos.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Hitler inainte sa se sinucida a ordonat realizarea unor experimente teribile. Asa a aparut _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Beau sa uit de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "_ vine din viitor si iti spune ca o sa mori de _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "De ce nu pot sa dorm noaptea? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand Iliescu o sa moara, pe cer va aparea _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Nu exista saptamana inca care sa nu se schimbe _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Bolo are un secret murdar. Cand e singur inchide draperiile si _ cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cum ajungi popular? _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Dupa ce fac sex ma _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Stoica s-a futut cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 3,
+      "deck": "c-milu",
+      "text": "_ vrea dar _ are probleme cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand fac sex imi place sa ma gandesc la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Dupa ce ma trezesc imi place sa fac _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Afara cu _ din _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Sunt speriat deoarece _ m-a chemat sa imi arate _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Fara _ nu pot sa traiesc.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand fac dus imi place sa ma gandesc la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Gigi nu era fericit asa ca el s-a decis sa _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "_ : cel mai bun lucru cu care sa-ti incepi ziua.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Am fost cu _ la _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 2,
+      "deck": "c-milu",
+      "text": "Deschideti usa ca a a venit _ cu _.",
+      "icon": "thumbs-o-up"
+    },
+    {
+      "pick": 1,
+      "deck": "c-milu",
+      "text": "Cand era mic, Milu voia sa fie _.",
+      "icon": "thumbs-o-up"
+    },
     {
       "pick": 1,
       "deck": "90s",

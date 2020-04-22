@@ -86,13 +86,6 @@
       </div>
 
     </div>
-    <div class="flex w-full mt-4 px-4 flex-col items-center">
-      <img class="w-1/6 rounded-full" src="/telegram.jpg" alt="">
-      <span class="text-white text-center mt-2">
-           <a target="_blank" href="https://t.me/cards_against_humanity" class="text-indigo-400 font-bold text-center">Click Here</a>
-  Join our telegram group to find players and share feedback
-    </span>
-    </div>
 
   </div>
 </template>
@@ -622,6 +615,27 @@
                 official: false,
                 order: 42,
                 checked: false
+            },
+            {
+                key: 'c-milu',
+                name: '[C] Cards Milu',
+                official: false,
+                order: 99,
+                checked: false
+            },
+            {
+                key: 'c-unirea',
+                name: '[C] Cards Unirea',
+                official: false,
+                order: 100,
+                checked: false
+            },
+            {
+                key: 'c-berica',
+                name: '[C] Cards Berica',
+                official: false,
+                order: 101,
+                checked: false
             }
         ];
 
@@ -691,4 +705,6 @@
     @apply min-h-screen flex justify-center items-center text-center mx-auto;
   }
   */
+
+  ::-webkit-scrollbar {display:none;}
 </style>

@@ -4,7 +4,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'Card Against Humanity' || '',
     meta: [
       {charset: 'utf-8'},
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
@@ -31,7 +31,7 @@ module.exports = {
   },
 
   server: {
-    port: 3000, // default: 3000
+    port: 80, // default: 3000
     host: '0.0.0.0' // default: localhost
   },
   /*
