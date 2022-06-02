@@ -1,5 +1,5 @@
 import {GameManager} from "./classes/gameManager";
-import * as SocketIO from "~/node_modules/@types/socket.io";
+import * as SocketIO from "socket.io";
 
 const express = require('express')
 const consola = require('consola')

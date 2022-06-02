@@ -1,5 +1,4 @@
 import {GameManager} from "../classes/gameManager";
-import {BlackCard} from "~/server/classes/blackCard";
 import {Player} from "../classes/player";
 import {Game} from "~/server/classes/game";
 

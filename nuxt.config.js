@@ -1,5 +1,5 @@
 module.exports = {
-  mode: 'spa',
+  ssr: false,
   /*
   ** Headers of the page
   */
@@ -70,5 +70,10 @@ module.exports = {
     */
     extend(config, ctx) {
     }
-  }
+  },
+
+  /**
+   * Disable telemetry
+   */
+  telemetry: false
 }

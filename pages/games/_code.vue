@@ -36,13 +36,6 @@
 
 
     </div>
-    <div class="flex w-full mt-4 px-4 flex-col items-center sm:w-2/3 md:w-2/3 lg:w-2/4 xl:w-1/5">
-      <img class="w-1/6 rounded-full" src="/telegram.jpg" alt="">
-      <span class="text-white text-center mt-2">
-           <a target="_blank" href="https://t.me/cards_against_humanity" class="text-indigo-400 font-bold text-center">Click Here</a>
- Join our telegram group to find players and share feedback
-    </span>
-    </div>
 
   </div>
 
@@ -512,7 +505,7 @@
     position: absolute;
     left: 0;
     top: 0;
-    background: linear-gradient(#1a202c 0px, transparent);
+    background: rgba(255,255,255,0.1);
 
 
   }

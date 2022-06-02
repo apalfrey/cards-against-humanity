@@ -1,5 +1,5 @@
 import {Game} from "./game";
-import {Server} from "~/node_modules/@types/socket.io";
+import {Server} from "socket.io";
 import {Player} from "~/server/classes/player";
 
 interface Request {
